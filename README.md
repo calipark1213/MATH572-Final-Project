@@ -3,7 +3,7 @@ such as mathematics, statistics, and computer science. It uses a combination of 
 prior hypotheses, which can be used to counter-factually analyse the past, model the present, or
 forecast future trajectories of an epidemic given various scenarios. The purpose of this report
 is to outline the results of the age-structured SIR modelling project on the influenza data from
-Alberta Health Services.1 We used a Bayesian method approach to model the 2016-2017 seasonal
+Alberta Health Services. We used a Bayesian method approach to model the 2016-2017 seasonal
 influenza data on the Albertan population, and conducted a counter factual analysis assuming two
 different vaccine effectiveness with various amounts of coverage within each population. Our focus
 focus was to assess what could have happened if there were preventative measures in place
