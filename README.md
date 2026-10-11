@@ -5,8 +5,7 @@ forecast future trajectories of an epidemic given various scenarios. The purpose
 is to outline the results of the age-structured SIR modelling project on the influenza data from
 Alberta Health Services. We used a Bayesian method approach to model the 2016-2017 seasonal
 influenza data on the Albertan population, and conducted a counter factual analysis assuming two
-different vaccine effectiveness with various amounts of coverage within each population. Our focus
-focus was to assess what could have happened if there were preventative measures in place
+different vaccine effectiveness with various amounts of coverage within each population. Our focus was to assess what could have happened if there were preventative measures in place
 such as having efforts in place for a higher vaccination coverage. It was found that by maximizing
 vaccine coverage and efficiency, the number of cumulative cases within group 1 and group 2
 decreased by 45.11% and 6.89%, respectively. This project will aid individuals in understanding
